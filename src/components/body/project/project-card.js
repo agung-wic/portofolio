@@ -10,7 +10,7 @@ function ProjectCard({ project }) {
                     {project.demo && (
                         <a href={project.demo} className="project-link" >
                             <div className="button-link">
-                                <i class="fi fi-rr-disk"></i>Demo
+                                <i class="fi fi-rr-globe"></i>Demo
                             </div>
                         </a>
                     )}
